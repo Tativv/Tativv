@@ -12,9 +12,9 @@
 💻 Soy graduada de Bachiller Técnico em Informática.
 📚 Estudei dois anos na Universidade de Ciências Informáticas (UCI).
 📝 Estou interessada em oportunidades que me permitam aplicar meus conhecimentos no 
-  desenvolvimento de software e aprender novas tecnologias.
-🌱 Estou aprendendo um pouquinho mais a cada dia sobre programação front-end e serviços 
-  de nuvem, e estou adorando essa jornada de aprendizado!.
+   desenvolvimento de software e aprender novas tecnologias.
+🌱 Estou aprendendo um pouquinho mais a cada dia sobre programação front-end e 
+   serviços de nuvem, e estou adorando essa jornada de aprendizado!.
 </pre>
 <hr/>
 <p align= "center">

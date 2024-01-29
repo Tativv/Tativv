@@ -8,7 +8,7 @@
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
 <h3>Em poucas palavras</h3>
-<pre align="center">
+<pre align="justify">
 💻 Soy graduada de Bachiller Técnico em Informática.
 📚 Estudei dois anos na Universidade de Ciências Informáticas (UCI).
 📝 Estou interessada em oportunidades que me permitam aplicar meus conhecimentos no 

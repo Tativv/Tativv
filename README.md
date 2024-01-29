@@ -9,12 +9,13 @@
 
 <h3>Em poucas palavras</h3>
 <pre align="justify">
-💻 Soy graduada de Bachiller Técnico em Informática.
+💻 Sou formada em Bacharel Técnico na Especialidade de Informática.
 📚 Estudei dois anos na Universidade de Ciências Informáticas (UCI).
 📝 Estou interessada em oportunidades que me permitam aplicar meus conhecimentos no 
    desenvolvimento de software e aprender novas tecnologias.
 🌱 Estou aprendendo um pouquinho mais a cada dia sobre programação front-end e 
    serviços de nuvem, e estou adorando essa jornada de aprendizado!.
+💬 Falo espanhol fluentemente, inglês e português em nível intermediário
 </pre>
 <hr/>
 <p align= "center">

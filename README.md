@@ -31,6 +31,6 @@
 </p>
 <hr/>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F5F4&background=000000F8&random=false&width=435&lines=%3E+Obrigado+por+visitar+meu+perfil" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F5F4&background=000000F8&random=false&width=435&lines=%3E+Obrigada+por+visitar+meu+perfil" alt="Typing SVG"/></a>
 </div>
 

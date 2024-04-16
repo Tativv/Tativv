@@ -23,13 +23,6 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tativv&theme=react&layout=compact" />
 </p>
 <hr/>
-<h3>Canales de Comunicação</h3>
-<p align="center">
-	<a href="mailto:varonatatiana1@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Tativv"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
-<hr/>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F5F4&background=000000F8&random=false&width=435&lines=%3E+Obrigada+por+visitar+meu+perfil" alt="Typing SVG"/></a>
 </div>
